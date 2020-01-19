@@ -422,3 +422,6 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/c++,windows,visualstudio,visualstudiocode
+
+# visual studio build folder
+out/
